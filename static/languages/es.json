@@ -1,6 +1,6 @@
 {
-  "heading": "¿Cómo percibe el público la corrupción en el sector público?",
-  "subheading": "El índice de percepción de la corrupción en 2023 para la UE27 es de 64, lo que lo situaría en el puesto 30 a nivel mundial.",
+  "heading": "¿Qué piensan los ciudadanos de la UE sobre la corrupción en el sector público?",
+  "subheading": "En 2023, la UE27 ocupó el puesto 30 en el índice global de percepción de la corrupción, subiendo un puesto en comparación con 2013",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Puntaje",
   "textSourceDescription": "Fuente",
@@ -9,23 +9,5 @@
   "textNote": "Se encuesta a empresarios y analistas nacionales, y se tienen en cuenta las encuestas realizadas a expertos tanto nacionales como internacionales. El índice va de 0 a 100, donde 100 indica el nivel más bajo de corrupción percibida, lo que representa el mejor resultado posible. El índice pretende reflejar la corrupción percibida. No se trata explícitamente de una medida directa de la corrupción real, sino que representa las opiniones de los encuestados sobre la corrupción supuesta. Estas opiniones pueden basarse en experiencias personales con la corrupción.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.transparency.org/es/cpi/2023",
-  "textCountryClick": "Haga clic para más información",
-  "extraInfoText_BE": "Dado que la necesidad de unanimidad genera un cuello de botella burocrático en muchos ámbitos, tiene cierta lógica avanzar hacia la votación por mayoría cualificada siempre que sea posible. En la práctica, se considera mayoría cualificada cuando 15 de los 27 Estados miembros votan a favor de algo, siempre que juntos representen a más del 65 por ciento de los 450 millones de ciudadanos de la UE.",
-  "extraInfoLink_BE": "Leer más",
-  "extraInfoText_DE": "Probablemente no sea casualidad que, apenas dos días después, la Comisión Europea anunciara que por fin activaría el mecanismo de condicionalidad, que vincula el pago de fondos de la UE al respeto del Estado de derecho. Budapest se enfrenta a críticas por las restricciones a la libertad de prensa, los conflictos de intereses y la corrupción.",
-  "extraInfoLink_DE": "Leer más",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "En este contexto, el gobierno búlgaro ha creado una nueva unidad de vigilancia de los medios de comunicación. La nueva unidad está diseñada para vigilar todos los tipos de medios de comunicación en busca de desinformación selectiva, pero, a diferencia del Consejo de Medios Electrónicos, un organismo independiente del país, no tiene el poder de regular o sancionar. Y tampoco debería tenerlo, subraya Bozhanov en una entrevista con la Radio Nacional de Bulgaria.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Según Gašper Dovžan, secretario de Estado del Ministerio de Asuntos Exteriores de Eslovenia y miembro de la comisión de la conferencia, Eslovenia no rehúye tomar decisiones valientes ni rechaza la posibilidad de avanzar hacia la mayoría cualificada, pero considera que todavía hay lugar para la toma de decisiones por consenso.",
-  "extraInfoLink_IT": "Más información",
-  "extraInfoText_LU": "Sin embargo, el eurodiputado luxemburgués Marc Angel está convencido de que es absolutamente necesario modificar los tratados, no sólo para que los procedimientos de toma de decisiones sean menos engorrosos, sino también para ampliar el ámbito de competencias de la UE. En una entrevista con la emisora nacional de Luxemburgo 100,7, afirma que los ciudadanos de la UE lo pidieron claramente durante el proceso de la Conferencia.",
-  "extraInfoLink_LU": "Leer más",
-  "extraInfoText_PL": "Liutauras Gudzinskas, profesor de Ciencias Políticas en la Universidad de Vilnius, le dice a Žinių Radijas que, si bien la propuesta de la Comisión Europea para fortalecer el pluralismo y la independencia de los medios de comunicación y protegerlos de la interferencia política o empresarial podría ser una herramienta preventiva útil en muchos países, probablemente sea demasiado tarde para Hungría.",
-  "extraInfoLink_PL": "Más información",
-  "extraInfoText_RO": "Aunque el 3 de mayo es el Día Mundial de la Libertad de Prensa, Lituania celebra la libertad de prensa cada año el 7 de mayo, porque esta fecha marca el fin de la prohibición zarista de publicar y distribuir libros en lituano.",
-  "extraInfoLink_RO": "Mira esto",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Haga clic para más información"
 }

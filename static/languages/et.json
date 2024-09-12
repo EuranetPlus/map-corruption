@@ -1,6 +1,6 @@
 {
-  "heading": "Kuidas avalikkus suhtub korruptsiooni avalikus sektoris?",
-  "subheading": "EL 27 korruptsioonitajumise indeks on 2023. aasta seisuga 64, mis oleks globaalselt kokkuvõttes 30. kohal.",
+  "heading": "Mida arvavad ELi kodanikud korruptsioonist avalikus sektoris?",
+  "subheading": "EL27 oli 2023. aastal ülemaailmses korruptsioonitajumise indeksis 30. kohal, võrreldes 2013. aastaga ühe positsiooni võrra rohkem.",
   "legend1": "Andmed puuduvad",
   "tooltip1": "Skoor",
   "textSourceDescription": "Allikas",
@@ -9,23 +9,5 @@
   "textNote": "Küsitletakse nii ärimehi kui ka riikide analüütikuid ning arvesse võetakse nii kodumaiste kui ka rahvusvaheliste ekspertidega tehtud küsitlusi. Indeks jääb vahemikku 0–100, kusjuures 100 näitab madalaimat tajutavat korruptsioonitaset, mis tähendab parimat võimalikku tulemust. Indeksi eesmärk on kajastada tajutavat korruptsiooni. See ei ole otseselt tegeliku korruptsiooni mõõdupuu, vaid pigem esindab vastajate arvamust oletatava korruptsiooni kohta. Need arvamused võivad põhineda isiklikel kogemustel korruptsiooniga.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_BE": "Kuna ühehäälsuse vajadus põhjustab paljudes valdkondades bürokraatlikku kitsaskohta, on teatud loogika liikuda võimaluse korral kvalifitseeritud häälteenamusega hääletamise suunas. Praktikas on kvalifitseeritud häälteenamus see, kui 15 liikmesriiki 27-st hääletavad millegi poolt, kui nad koos esindavad rohkem kui 65 protsenti ELi 450 miljonist kodanikust.",
-  "extraInfoLink_BE": "Loe edasi",
-  "extraInfoText_DE": "Tõenäoliselt pole juhus, et vaid kaks päeva hiljem teatas Euroopa Komisjon, et käivitab lõpuks tingimuslikkuse mehhanismi, mis seob ELi raha maksmise õigusriigi põhimõtete järgimisega. Budapesti kritiseeritakse meediavabaduse piiramise, huvide konflikti ja korruptsiooni pärast.",
-  "extraInfoLink_DE": "Loe edasi",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "Sellega seoses on Bulgaaria valitsus loonud uue meediaseireüksuse. Uus üksus on loodud jälgima kõiki meediavorme sihipärase desinformatsiooni suhtes, kuid erinevalt riigi sõltumatust elektroonilise meedia nõukogust ei ole tal õigust reguleerida ega karistada. Ja ega peakski tegema, rõhutab Božanov Bulgaaria rahvusraadio intervjuus.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Sloveenia välisministeeriumi riigisekretär ja konverentsikomisjoni liige Gašper Dovžan ütleb, et Sloveenia kindlasti ei kohku tagasi julgete otsuste ees ega lükka tagasi võimalust liikuda kvalifitseeritud häälteenamuse poole. Samas usub ta, et konsensuslikul otsustamisel on veel kohta.",
-  "extraInfoLink_IT": "Rohkem infot",
-  "extraInfoText_LU": "Ometi on Luksemburgi parlamendiliige Marc Angel veendunud, et lepingumuudatused on hädavajalikud – mitte ainult selleks, et muuta otsustamismenetlused vähem kohmakaks, vaid ka selleks, et laiendada ELi pädevusvaldkonda. Ta kinnitab intervjuus Luksemburgi rahvusringhäälingule 100,7, et ELi kodanikud küsisid seda konverentsi käigus selgelt.",
-  "extraInfoLink_LU": "Loe edasi",
-  "extraInfoText_PL": "Vilniuse ülikooli politoloogiaprofessor Liutauras Gudzinskas ütleb Žinių Radijasele, et kuigi Euroopa Komisjoni ettepanek tugevdada meedia pluralismi ja sõltumatust ning kaitsta seda poliitiliste või äriliste sekkumiste eest võib olla kasulik ennetusvahend paljudes riikides, on see tõenäoline. Ungari jaoks liiga hilja.",
-  "extraInfoLink_PL": "Rohkem infot",
-  "extraInfoText_RO": "Kuigi ülemaailmne pressivabaduse päev on 3. mail, tähistatakse Leedus ajakirjandusvabadust igal aastal 7. mail – kuna see kuupäev tähistab tsaariaegse leedukeelsete raamatute väljaandmise ja levitamise keelu lõppu.",
-  "extraInfoLink_RO": "Kontrollige seda",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Lisateabe saamiseks klõpsake"
 }
