@@ -105,6 +105,8 @@
 	} else if (config.colourScheme == 'yellow-green') {
 		colorScheme = schemeYlGn[5];
 	}
+	
+	$: colorSchemeReversed = colorScheme.slice().reverse();
 
 	$: if ($dataReady) {
 		// console.log('Country data for map loaded');
@@ -145,7 +147,7 @@
 
 				// Set color scale domain and range
 				if (config.datasetType == 'values') {
-					colorScale.domain(extent(extentArray)).range(colorScheme);
+					colorScale.domain(extent(extentArray)).range(colorSchemeReversed);
 					clusters = colorScale.quantiles();
 					scaleMin = min(extentArray);
 					scaleMax = max(extentArray);
