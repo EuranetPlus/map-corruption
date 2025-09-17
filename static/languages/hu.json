@@ -1,13 +1,13 @@
 {
   "heading": "Mit gondolnak az uniós polgárok a közszférában tapasztalható korrupcióról?",
-  "subheading": "2023-ban az EU-27 a 30. helyet foglalta el a globális korrupciós észlelési indexben 1-gyel magasabban, mint 2013-ban.",
-  "legend1": "Nincs adat",
+  "subheading": "2023-ban az EU27 a 30. helyen állt a globális korrupcióérzékelési indexben, ami 1 hellyel jobb eredményt jelent 2013-hoz képest.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "Pontszám",
   "textSourceDescription": "Forrás",
-  "textSource": "Transparency International",
+  "textSource": "Átláthatóság Nemzetközi",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Vállalkozókat és országelemzőket is megkérdeznek, és figyelembe veszik a hazai és nemzetközi szakértőkkel végzett felméréseket. Az index 0 és 100 között mozog, a 100 pedig a legalacsonyabb észlelt korrupciós szintet jelzi, így a lehető legjobb eredményt jelenti. Az index az észlelt korrupciót hivatott tükrözni. Kifejezetten nem a tényleges korrupció közvetlen mérőszáma, hanem inkább a válaszadók véleményét képviseli a feltételezett korrupcióról. Ezek a vélemények a korrupcióval kapcsolatos személyes tapasztalatokon alapulhatnak.",
+  "textNote": "Üzletembereket és országelemzőket is megkérdeznek, és figyelembe veszik mind a hazai, mind a nemzetközi szakértők körében végzett közvélemény-kutatásokat. Az index 0-tól 100-ig terjed, ahol a 100 a legalacsonyabb észlelt korrupciós szintet jelöli, így a lehető legjobb eredményt képviseli. Az index célja, hogy tükrözze az észlelt korrupciót. Kifejezetten nem a tényleges korrupció közvetlen mérése, hanem a válaszadók véleményét tükrözi a feltételezett korrupcióról. Ezek a vélemények a korrupcióval kapcsolatos személyes tapasztalatokon alapulhatnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

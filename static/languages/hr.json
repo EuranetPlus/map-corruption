@@ -1,13 +1,13 @@
 {
   "heading": "Što građani EU misle o korupciji u javnom sektoru?",
-  "subheading": "Godine 2023., EU27 je bila na 30. mjestu u globalnom indeksu percepcije korupcije i porasla je za jedno mjesto u odnosu na 2013.",
+  "subheading": "U 2023. godini, EU27 je zauzela 30. mjesto na globalnoj ljestvici percepcije korupcije, što je porast za jedno mjesto u odnosu na 2013. godinu.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Postići",
   "textSourceDescription": "Izvor",
   "textSource": "Transparency International",
   "textNoteDescription": "Bilješka",
-  "textNote": "Anketiraju se gospodarstvenici kao i analitičari zemalja, au obzir se uzimaju ankete s domaćim i međunarodnim stručnjacima. Indeks se kreće od 0 do 100, pri čemu 100 označava najnižu percipiranu razinu korupcije, što predstavlja najbolji mogući ishod. Indeks treba odražavati percipiranu korupciju. To eksplicitno nije izravna mjera stvarne korupcije, već predstavlja mišljenja ispitanika o pretpostavljenoj korupciji. Ta se mišljenja mogu temeljiti na osobnim iskustvima s korupcijom.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Anketiraju se poslovni ljudi, kao i nacionalni analitičari, a uzimaju se u obzir i ankete stručnjaka iz zemlje i inozemstva. Indeks se kreće od 0 do 100, pri čemu 100 označava najnižu percipiranu razinu korupcije, što predstavlja najbolji mogući ishod. Indeks je namijenjen odražavanju percipirane korupcije. On izričito nije izravna mjera stvarne korupcije, već predstavlja mišljenja ispitanika o pretpostavljenoj korupciji. Ta mišljenja mogu se temeljiti na osobnim iskustvima s korupcijom.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
   "textCountryClick": "Kliknite za više informacija"
 }

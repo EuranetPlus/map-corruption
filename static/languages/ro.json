@@ -1,13 +1,13 @@
 {
   "heading": "Ce părere au cetățenii UE despre corupția din sectorul public?",
-  "subheading": "În 2023, UE27 s-a clasat pe locul 30 în indicele global de percepție a corupției, cu un loc în plus față de 2013",
-  "legend1": "Nu există date disponibile",
+  "subheading": "În 2023, UE-27 s-a clasat pe locul 30 în indicele global de percepție a corupției, în creștere cu un loc față de 2013.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "Scor",
   "textSourceDescription": "Sursă",
   "textSource": "Transparency International",
   "textNoteDescription": "Nota",
-  "textNote": "Oamenii de afaceri, precum și analiștii din țară sunt chestionați și sunt luate în considerare sondajele cu experți atât la nivel național, cât și internațional. Indicele variază de la 0 la 100, 100 indicând cel mai scăzut nivel perceput de corupție, reprezentând astfel cel mai bun rezultat posibil. Indicele este menit să reflecte corupția percepută. Nu este în mod explicit o măsură directă a corupției reale, ci mai degrabă reprezintă opiniile respondenților cu privire la presupusa corupție. Aceste opinii se pot baza pe experiențele personale cu corupția.",
+  "textNote": "Sunt chestionați atât oamenii de afaceri, cât și analiștii de țară, și se iau în considerare sondajele realizate cu experți atât la nivel național, cât și internațional. Indicele variază de la 0 la 100, 100 indicând cel mai scăzut nivel perceput de corupție, reprezentând astfel cel mai bun rezultat posibil. Indicele este menit să reflecte corupția percepută. În mod explicit, nu este o măsură directă a corupției reale, ci reprezintă opiniile respondenților cu privire la presupusa corupție. Aceste opinii se pot baza pe experiențe personale legate de corupție.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

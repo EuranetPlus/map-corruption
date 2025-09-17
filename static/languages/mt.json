@@ -1,13 +1,13 @@
 {
   "heading": "X'jaħsbu ċ-ċittadini tal-UE dwar il-korruzzjoni fis-settur pubbliku?",
-  "subheading": "Fl-2023, l-UE27 kklassifikat fit-30 post fl-indiċi globali tal-perċezzjoni tal-korruzzjoni sa grad wieħed meta mqabbel mal-2013",
+  "subheading": "Fl-2023, l-UE27 ikklassifikat fit-30 post fl-indiċi globali tal-perċezzjoni tal-korruzzjoni, żieda ta' post wieħed meta mqabbel mal-2013.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "Score",
+  "tooltip1": "Punteġġ",
   "textSourceDescription": "Sors",
   "textSource": "Trasparenza Internazzjonali",
   "textNoteDescription": "Nota",
-  "textNote": "In-negozjanti kif ukoll l-analisti tal-pajjiż jiġu mistħarrġa, u jitqiesu l-istħarriġ ma’ esperti kemm domestikament kif ukoll internazzjonalment. L-indiċi jvarja minn 0 sa 100, b'100 jindika l-inqas livell ta' korruzzjoni perċepit, u b'hekk jirrappreżenta l-aħjar riżultat possibbli. L-indiċi huwa maħsub biex jirrifletti l-korruzzjoni perċepita. B'mod espliċitu mhijiex miżura diretta ta' korruzzjoni attwali, iżda pjuttost tirrappreżenta l-opinjonijiet ta' dawk li wieġbu dwar korruzzjoni preżunta. Dawn l-opinjonijiet jistgħu jkunu bbażati fuq esperjenzi personali bil-korruzzjoni.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Isiru stħarriġ kemm fin-negozjanti kif ukoll fl-analisti tal-pajjiżi, u jitqiesu stħarriġiet ma' esperti kemm lokalment kif ukoll internazzjonalment. L-indiċi jvarja minn 0 sa 100, fejn 100 jindika l-aktar livell baxx ta' korruzzjoni perċepita, u b'hekk jirrappreżenta l-aħjar riżultat possibbli. L-indiċi huwa maħsub biex jirrifletti l-korruzzjoni perċepita. Mhuwiex espliċitament kejl dirett tal-korruzzjoni attwali, iżda pjuttost jirrappreżenta l-opinjonijiet tar-rispondenti dwar il-korruzzjoni preżunta. Dawn l-opinjonijiet jistgħu jkunu bbażati fuq esperjenzi personali mal-korruzzjoni.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

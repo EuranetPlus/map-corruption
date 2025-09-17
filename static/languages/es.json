@@ -1,12 +1,12 @@
 {
   "heading": "¿Qué piensan los ciudadanos de la UE sobre la corrupción en el sector público?",
-  "subheading": "En 2023, la UE27 ocupó el puesto 30 en el índice global de percepción de la corrupción, subiendo un puesto en comparación con 2013",
+  "subheading": "En 2023, la UE27 ocupó el puesto 30 en el índice global de percepción de la corrupción, subiendo un puesto en comparación con 2013.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Puntaje",
   "textSourceDescription": "Fuente",
   "textSource": "Transparencia Internacional",
   "textNoteDescription": "Nota",
-  "textNote": "Se encuesta a empresarios y analistas nacionales, y se tienen en cuenta las encuestas realizadas a expertos tanto nacionales como internacionales. El índice va de 0 a 100, donde 100 indica el nivel más bajo de corrupción percibida, lo que representa el mejor resultado posible. El índice pretende reflejar la corrupción percibida. No se trata explícitamente de una medida directa de la corrupción real, sino que representa las opiniones de los encuestados sobre la corrupción supuesta. Estas opiniones pueden basarse en experiencias personales con la corrupción.",
+  "textNote": "Se encuesta a empresarios y analistas nacionales, y se tienen en cuenta encuestas a expertos nacionales e internacionales. El índice oscila entre 0 y 100, donde 100 indica el nivel más bajo de percepción de corrupción, lo que representa el mejor resultado posible. El índice pretende reflejar la corrupción percibida. No es una medida directa de la corrupción real, sino que representa las opiniones de los encuestados sobre la corrupción presunta. Estas opiniones pueden basarse en experiencias personales con la corrupción.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.transparency.org/es/cpi/2023",
   "textCountryClick": "Haga clic para más información"

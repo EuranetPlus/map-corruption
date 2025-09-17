@@ -1,13 +1,13 @@
 {
-  "heading": "Kaj menijo državljani EU o korupciji v javnem sektorju?",
-  "subheading": "Leta 2023 se je EU27 uvrstila na 30. mesto v svetovnem indeksu zaznave korupcije in se je v primerjavi z letom 2013 povečala za eno mesto.",
-  "legend1": "Ni podatkov",
-  "tooltip1": "rezultat",
+  "heading": "Kaj si državljani EU mislijo o korupciji v javnem sektorju?",
+  "subheading": "Leta 2023 se je EU-27 uvrstila na 30. mesto na svetovnem indeksu zaznave korupcije, kar je za eno mesto višje kot leta 2013.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "Rezultat",
   "textSourceDescription": "Vir",
   "textSource": "Transparency International",
   "textNoteDescription": "Opomba",
-  "textNote": "Anketirajo se gospodarstveniki in državni analitiki, upoštevajo pa se ankete domačih in mednarodnih strokovnjakov. Indeks se giblje od 0 do 100, pri čemer 100 pomeni najnižjo zaznano stopnjo korupcije in tako predstavlja najboljši možni rezultat. Indeks naj bi odražal zaznano korupcijo. Izrecno ni neposredno merilo dejanske korupcije, temveč predstavlja mnenja anketirancev o domnevni korupciji. Ta mnenja morda temeljijo na osebnih izkušnjah s korupcijo.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Anketirajo poslovneže in državne analitike, upoštevajo pa se tudi ankete strokovnjakov tako doma kot v tujini. Indeks se giblje od 0 do 100, pri čemer 100 označuje najnižjo zaznano raven korupcije in tako predstavlja najboljši možni rezultat. Indeks naj bi odražal zaznano korupcijo. Izrecno ni neposredno merilo dejanske korupcije, temveč predstavlja mnenja anketirancev o domnevni korupciji. Ta mnenja lahko temeljijo na osebnih izkušnjah s korupcijo.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
   "textCountryClick": "Kliknite za več informacij"
 }

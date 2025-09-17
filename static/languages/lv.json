@@ -1,13 +1,13 @@
 {
-  "heading": "Ko ES iedzīvotāji domā par korupciju valsts sektorā?",
-  "subheading": "2023. gadā ES-27 ieņēma 30. vietu globālajā korupcijas uztveres indeksā, kas ir par 1 augstāks nekā 2013.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Ko ES pilsoņi domā par korupciju publiskajā sektorā?",
+  "subheading": "2023. gadā ES27 ieņēma 30. vietu globālajā korupcijas uztveres indeksā, pakāpjoties par 1 vietu salīdzinājumā ar 2013. gadu.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "Rezultāts",
   "textSourceDescription": "Avots",
   "textSource": "Transparency International",
   "textNoteDescription": "Piezīme",
-  "textNote": "Tiek aptaujāti uzņēmēji, kā arī valstu analītiķi, un tiek ņemtas vērā gan pašmāju, gan starptautisku ekspertu aptaujas. Indekss svārstās no 0 līdz 100, kur 100 norāda uz zemāko uztverto korupcijas līmeni, tādējādi atspoguļojot labāko iespējamo iznākumu. Indekss ir paredzēts, lai atspoguļotu uztverto korupciju. Tas nepārprotami nav tiešs faktiskās korupcijas mērs, bet gan atspoguļo respondentu viedokli par pieņemto korupciju. Šie viedokļi var būt balstīti uz personīgo pieredzi saistībā ar korupciju.",
+  "textNote": "Tiek aptaujāti gan uzņēmēji, gan valstu analītiķi, un tiek ņemtas vērā gan vietējo, gan starptautisko ekspertu aptaujas. Indekss svārstās no 0 līdz 100, kur 100 norāda zemāko uztverto korupcijas līmeni, tādējādi atspoguļojot labāko iespējamo rezultātu. Indeksa mērķis ir atspoguļot uztverto korupciju. Tas nepārprotami nav tiešs faktiskās korupcijas mērs, bet gan atspoguļo respondentu viedokli par pieņemto korupciju. Šie viedokļi var būt balstīti uz personīgo pieredzi ar korupciju.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "linkDataAccess": "https://www.transparency.org/lv/cpi/2023",
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

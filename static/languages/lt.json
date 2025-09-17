@@ -1,13 +1,13 @@
 {
   "heading": "Ką ES piliečiai mano apie korupciją viešajame sektoriuje?",
-  "subheading": "2023 m. ES 27 užėmė 30 vietą pagal pasaulinį korupcijos suvokimo indeksą, 1 reitingu daugiau nei 2013 m.",
+  "subheading": "2023 m. ES 27 užėmė 30 vietą pasauliniame korupcijos suvokimo indekse, pakilusi 1 vieta, palyginti su 2013 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Rezultatas",
   "textSourceDescription": "Šaltinis",
-  "textSource": "„Transparency International“.",
+  "textSource": "„Transparency International“",
   "textNoteDescription": "Pastaba",
-  "textNote": "Apklausiami verslininkai ir šalių analitikai, atsižvelgiama į ekspertų apklausas tiek šalyje, tiek tarptautiniu mastu. Indeksas svyruoja nuo 0 iki 100, o 100 rodo žemiausią suvoktą korupcijos lygį, taigi yra geriausias įmanomas rezultatas. Indeksas turi atspindėti suvoktą korupciją. Tai aiškiai nėra tiesioginis tikrosios korupcijos matas, o labiau atspindi respondentų nuomonę apie tariamą korupciją. Šios nuomonės gali būti pagrįstos asmenine patirtimi, susijusia su korupcija.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Apklausiami tiek verslininkai, tiek šalių analitikai, atsižvelgiama į ekspertų apklausas tiek šalies viduje, tiek tarptautiniu mastu. Indeksas svyruoja nuo 0 iki 100, kur 100 rodo žemiausią suvokiamą korupcijos lygį ir yra geriausias įmanomas rezultatas. Indeksas skirtas atspindėti suvokiamą korupciją. Jis nėra tiesioginis faktinės korupcijos matas, o veikiau atspindi respondentų nuomonę apie tariamą korupciją. Šios nuomonės gali būti pagrįstos asmenine patirtimi, susijusia su korupcija.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

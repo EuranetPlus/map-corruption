@@ -1,13 +1,13 @@
 {
   "heading": "Cad a cheapann saoránaigh an AE faoin éilliú san earnáil phoiblí?",
-  "subheading": "In 2023, tháinig an AE27 sa 30ú háit san innéacs braistintí domhanda éillithe suas céim 1 i gcomparáid le 2013",
+  "subheading": "Sa bhliain 2023, bhí an AE27 sa 30ú háit san innéacs domhanda maidir le braistint éillithe, suas 1 áit i gcomparáid le 2013.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "Scór",
   "textSourceDescription": "Foinse",
   "textSource": "Trédhearcacht Idirnáisiúnta",
   "textNoteDescription": "Nóta",
-  "textNote": "Déantar suirbhé ar lucht gnó chomh maith le hanailísithe tíre, agus cuirtear pobalbhreith le saineolaithe intíre agus idirnáisiúnta san áireamh. Tá an t-innéacs idir 0 agus 100, agus léiríonn 100 an leibhéal éillithe is ísle a bhraitear, rud a léiríonn an toradh is fearr is féidir. Tá an t-innéacs i gceist chun éilliú braite a léiriú. Ní tomhas díreach é go soiléir ar an gcaimiléireacht iarbhír, ach is ionann é agus tuairimí na bhfreagróirí ar éilliú toimhdithe. Féadfaidh na tuairimí seo a bheith bunaithe ar thaithí phearsanta ar chaimiléireacht.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://www.transparency.org/ga/cpi/2023",
+  "textNote": "Déantar suirbhé ar lucht gnó chomh maith le hanailísithe tíortha, agus cuirtear pobalbhreitheanna le saineolaithe sa bhaile agus go hidirnáisiúnta san áireamh. Tá an t-innéacs idir 0 agus 100, agus léiríonn 100 an leibhéal éillithe is ísle a mheastar a bheith ann, rud a léiríonn an toradh is fearr is féidir. Tá an t-innéacs ceaptha chun léiriú a dhéanamh ar an éilliú a mheastar a bheith ann. Ní beart díreach é ar an éilliú iarbhír go follasach, ach léiríonn sé tuairimí na bhfreagróirí ar an éilliú a mheastar a bheith ann. D’fhéadfadh na tuairimí seo a bheith bunaithe ar thaithí phearsanta le héilliú.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

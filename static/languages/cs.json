@@ -1,12 +1,12 @@
 {
   "heading": "Co si občané EU myslí o korupci ve veřejném sektoru?",
-  "subheading": "V roce 2023 se EU27 umístila na 30. místě v celosvětovém indexu vnímání korupce, což je o 1 místo vyšší než v roce 2013",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "subheading": "V roce 2023 se EU-27 umístila na 30. místě v globálním indexu vnímání korupce, což je o jednu příčku více než v roce 2013.",
+  "legend1": "Žádné údaje k dispozici",
   "tooltip1": "Skóre",
   "textSourceDescription": "Zdroj",
   "textSource": "Transparency International",
   "textNoteDescription": "Poznámka",
-  "textNote": "Dotazováni jsou jak podnikatelé, tak analytici jednotlivých zemí a zohledňovány jsou průzkumy s odborníky z tuzemska i ze zahraničí. Index se pohybuje od 0 do 100, přičemž 100 označuje nejnižší vnímanou míru korupce, což představuje nejlepší možný výsledek. Index má odrážet vnímanou korupci. Explicitně nejde o přímé měřítko skutečné korupce, ale vyjadřuje názory respondentů na předpokládanou korupci. Tyto názory mohou vycházet z osobních zkušeností s korupcí.",
+  "textNote": "Dotazovány jsou podnikatelé i analytici jednotlivých zemí a zohledňují se i průzkumy s odborníky z domácí i mezinárodní sféry. Index se pohybuje od 0 do 100, přičemž 100 označuje nejnižší vnímanou úroveň korupce, a představuje tak nejlepší možný výsledek. Index má odrážet vnímanou korupci. Není výslovně přímým měřítkem skutečné korupce, ale spíše představuje názory respondentů na předpokládanou korupci. Tyto názory mohou být založeny na osobních zkušenostech s korupcí.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
   "textCountryClick": "Klikněte pro více informací"

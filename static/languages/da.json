@@ -1,13 +1,13 @@
 {
   "heading": "Hvad mener EU-borgere om korruption i den offentlige sektor?",
-  "subheading": "I 2023 blev EU27 placeret på en 30. plads i det globale korruptionsindeks op 1 rang i forhold til 2013",
-  "legend1": "Ingen tilgængelige data",
+  "subheading": "I 2023 rangerede EU27 som nummer 30 på det globale indeks for korruptionsopfattelse, hvilket var en stigning på 1 plads i forhold til 2013.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "Score",
   "textSourceDescription": "Kilde",
   "textSource": "Transparency International",
   "textNoteDescription": "Note",
-  "textNote": "Forretningsfolk såvel som landeanalytikere bliver undersøgt, og der tages hensyn til meningsmålinger med eksperter både nationalt og internationalt. Indekset går fra 0 til 100, hvor 100 angiver det laveste opfattede niveau af korruption, hvilket repræsenterer det bedst mulige resultat. Indekset er beregnet til at afspejle opfattet korruption. Det er udtrykkeligt ikke et direkte mål for faktisk korruption, men repræsenterer derimod respondenternes mening om formodet korruption. Disse udtalelser kan være baseret på personlige erfaringer med korruption.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Både forretningsfolk og landeanalytikere deltager i undersøgelsen, og der tages højde for meningsmålinger med eksperter både nationalt og internationalt. Indekset går fra 0 til 100, hvor 100 angiver det laveste opfattede niveau af korruption og dermed repræsenterer det bedst mulige resultat. Indekset er beregnet til at afspejle opfattet korruption. Det er eksplicit ikke et direkte mål for faktisk korruption, men repræsenterer snarere respondenternes meninger om formodet korruption. Disse meninger kan være baseret på personlige erfaringer med korruption.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

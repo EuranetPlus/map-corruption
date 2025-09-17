@@ -4,10 +4,10 @@
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Wynik",
   "textSourceDescription": "Źródło",
-  "textSource": "Międzynarodowa Transparencja",
+  "textSource": "Transparency International",
   "textNoteDescription": "Notatka",
-  "textNote": "Ankietowani są przedsiębiorcy i analitycy krajowi, a także brane są pod uwagę sondaże z ekspertami zarówno krajowymi, jak i międzynarodowymi. Indeks ma zakres od 0 do 100, przy czym 100 oznacza najniższy postrzegany poziom korupcji, co stanowi najlepszy możliwy wynik. Indeks ma odzwierciedlać postrzeganą korupcję. Nie jest to wyraźnie bezpośredni pomiar rzeczywistej korupcji, ale raczej odzwierciedla opinie respondentów na temat domniemanej korupcji. Opinie te mogą opierać się na osobistych doświadczeniach z korupcją.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "textNote": "Ankietowani są przedsiębiorcy oraz analitycy krajowi, a także brane są pod uwagę sondaże przeprowadzone wśród ekspertów z kraju i ze świata. Indeks przyjmuje wartości od 0 do 100, przy czym 100 oznacza najniższy postrzegany poziom korupcji, a tym samym najlepszy możliwy wynik. Indeks ma odzwierciedlać postrzegany poziom korupcji. Nie jest on jednak bezpośrednią miarą rzeczywistej korupcji, lecz odzwierciedla opinie respondentów na temat domniemanej korupcji. Opinie te mogą opierać się na osobistych doświadczeniach z korupcją.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://www.transparency.org/pl/cpi/2023",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

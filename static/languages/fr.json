@@ -1,13 +1,13 @@
 {
   "heading": "Que pensent les citoyens de l’UE de la corruption dans le secteur public ?",
-  "subheading": "En 2023, l'UE27 se classe au 30e rang de l'indice mondial de perception de la corruption, en hausse d'un rang par rapport à 2013",
+  "subheading": "En 2023, l'UE27 se classait au 30e rang dans l'indice mondial de perception de la corruption, en hausse d'un rang par rapport à 2013",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "Score",
   "textSourceDescription": "Source",
   "textSource": "Transparence Internationale",
   "textNoteDescription": "Note",
-  "textNote": "Les chefs d'entreprise et les analystes nationaux sont interrogés et les sondages auprès d'experts nationaux et internationaux sont pris en compte. L'indice va de 0 à 100, 100 indiquant le niveau de corruption perçu le plus bas, représentant ainsi le meilleur résultat possible. L'indice est censé refléter la corruption perçue. Il ne s'agit pas explicitement d'une mesure directe de la corruption réelle, mais plutôt de l'opinion des répondants sur la corruption présumée. Ces opinions peuvent être basées sur des expériences personnelles de corruption.",
+  "textNote": "Des chefs d'entreprise ainsi que des analystes nationaux sont interrogés, et des sondages auprès d'experts nationaux et internationaux sont pris en compte. L'indice s'échelonne de 0 à 100, 100 indiquant le niveau de corruption perçu le plus bas, représentant ainsi le meilleur résultat possible. Cet indice vise à refléter la corruption perçue. Il ne s'agit pas d'une mesure directe de la corruption réelle, mais plutôt de l'opinion des répondants sur la corruption présumée. Ces opinions peuvent être fondées sur des expériences personnelles de corruption.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/fr/cpi/2023",
   "textCountryClick": "Cliquez pour plus d'informations"
 }
