@@ -1,6 +1,6 @@
 {
   "heading": "Čo si občania EÚ myslia o korupcii vo verejnom sektore?",
-  "subheading": "V roku 2023 sa EÚ-27 umiestnila na 30. mieste v globálnom indexe vnímania korupcie, čo je o jedno miesto vyššie ako v roku 2013.",
+  "subheading": "V roku 2025 by sa EÚ-27 umiestnila na približne 35. mieste na svete na základe priemerného skóre CPI v porovnaní s približne 31. miestom v roku 2013.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "Skóre",
   "textSourceDescription": "Zdroj",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Prieskumy sa vykonávajú medzi podnikateľmi, ako aj medzi analytikmi jednotlivých krajín a zohľadňujú sa aj prieskumy s odborníkmi z domácej aj medzinárodnej úrovne. Index sa pohybuje od 0 do 100, pričom 100 označuje najnižšiu vnímanú úroveň korupcie, a teda predstavuje najlepší možný výsledok. Index má odrážať vnímanú korupciu. Nie je výslovne priamym meradlom skutočnej korupcie, ale skôr predstavuje názory respondentov na predpokladanú korupciu. Tieto názory môžu byť založené na osobných skúsenostiach s korupciou.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Kliknite pre viac informácií"
 }

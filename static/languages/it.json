@@ -1,13 +1,13 @@
 {
   "heading": "Cosa pensano i cittadini dell'UE della corruzione nel settore pubblico?",
-  "subheading": "Nel 2023, l'UE27 si è classificata al 30° posto nell'indice globale di percezione della corruzione, salendo di 1 posizione rispetto al 2013",
+  "subheading": "Nel 2025, l'UE27 si classificherebbe intorno alla 35ª posizione a livello globale in base al suo punteggio medio dell'indice dei prezzi al consumo (CPI), rispetto alla 31ª posizione circa del 2013.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "Punto",
   "textSourceDescription": "Fonte",
   "textSource": "Trasparenza Internazionale",
   "textNoteDescription": "Nota",
-  "textNote": "Vengono intervistati imprenditori e analisti nazionali, e vengono presi in considerazione sondaggi condotti da esperti sia a livello nazionale che internazionale. L'indice varia da 0 a 100, dove 100 indica il livello di corruzione percepito più basso, rappresentando quindi il miglior risultato possibile. L'indice intende riflettere la corruzione percepita. Non è esplicitamente una misura diretta della corruzione effettiva, ma rappresenta piuttosto le opinioni degli intervistati sulla corruzione presunta. Queste opinioni possono essere basate su esperienze personali in materia di corruzione.",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "textNote": "Vengono intervistati imprenditori e analisti politici, e si tiene conto dei sondaggi condotti tra esperti nazionali e internazionali. L'indice varia da 0 a 100, dove 100 indica il livello di corruzione percepito più basso, rappresentando quindi il miglior risultato possibile. L'indice intende riflettere la percezione della corruzione. Non si tratta esplicitamente di una misura diretta della corruzione effettiva, ma rappresenta piuttosto le opinioni degli intervistati sulla corruzione presunta. Tali opinioni possono essere basate su esperienze personali di corruzione.",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

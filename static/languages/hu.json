@@ -1,6 +1,6 @@
 {
   "heading": "Mit gondolnak az uniós polgárok a közszférában tapasztalható korrupcióról?",
-  "subheading": "2023-ban az EU27 a 30. helyen állt a globális korrupcióérzékelési indexben, ami 1 hellyel jobb eredményt jelent 2013-hoz képest.",
+  "subheading": "2025-ben az EU27 a fogyasztói árindex (CPI) átlagos pontszáma alapján a globális rangsorban a 35. helyen fog állni, szemben a 2013-as körülbelül 31. hellyel.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "Pontszám",
   "textSourceDescription": "Forrás",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Jegyzet",
   "textNote": "Üzletembereket és országelemzőket is megkérdeznek, és figyelembe veszik mind a hazai, mind a nemzetközi szakértők körében végzett közvélemény-kutatásokat. Az index 0-tól 100-ig terjed, ahol a 100 a legalacsonyabb észlelt korrupciós szintet jelöli, így a lehető legjobb eredményt képviseli. Az index célja, hogy tükrözze az észlelt korrupciót. Kifejezetten nem a tényleges korrupció közvetlen mérése, hanem a válaszadók véleményét tükrözi a feltételezett korrupcióról. Ezek a vélemények a korrupcióval kapcsolatos személyes tapasztalatokon alapulhatnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Kattintson a további információkért"
 }

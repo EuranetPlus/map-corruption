@@ -1,13 +1,13 @@
 {
-  "heading": "Que pensent les citoyens de l’UE de la corruption dans le secteur public ?",
-  "subheading": "En 2023, l'UE27 se classait au 30e rang dans l'indice mondial de perception de la corruption, en hausse d'un rang par rapport à 2013",
+  "heading": "Que pensent les citoyens de l'UE de la corruption dans le secteur public ?",
+  "subheading": "En 2025, l'UE27 se classerait autour du 35e rang mondial sur la base de son score IPC moyen, contre environ le 31e rang en 2013.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "Score",
   "textSourceDescription": "Source",
-  "textSource": "Transparence Internationale",
+  "textSource": "Transparence International",
   "textNoteDescription": "Note",
-  "textNote": "Des chefs d'entreprise ainsi que des analystes nationaux sont interrogés, et des sondages auprès d'experts nationaux et internationaux sont pris en compte. L'indice s'échelonne de 0 à 100, 100 indiquant le niveau de corruption perçu le plus bas, représentant ainsi le meilleur résultat possible. Cet indice vise à refléter la corruption perçue. Il ne s'agit pas d'une mesure directe de la corruption réelle, mais plutôt de l'opinion des répondants sur la corruption présumée. Ces opinions peuvent être fondées sur des expériences personnelles de corruption.",
+  "textNote": "Des chefs d'entreprise et des analystes pays sont interrogés, et des sondages auprès d'experts nationaux et internationaux sont pris en compte. L'indice varie de 0 à 100, 100 indiquant le niveau de corruption perçu le plus faible, soit le résultat le plus favorable. Cet indice vise à refléter la corruption perçue. Il ne s'agit pas d'une mesure directe de la corruption réelle, mais plutôt de l'opinion des répondants sur la corruption supposée. Cette opinion peut être fondée sur des expériences personnelles de corruption.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.transparency.org/fr/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

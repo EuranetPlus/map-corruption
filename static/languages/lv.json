@@ -1,6 +1,6 @@
 {
   "heading": "Ko ES pilsoņi domā par korupciju publiskajā sektorā?",
-  "subheading": "2023. gadā ES27 ieņēma 30. vietu globālajā korupcijas uztveres indeksā, pakāpjoties par 1 vietu salīdzinājumā ar 2013. gadu.",
+  "subheading": "2025. gadā ES27 pēc vidējā patēriņa cenu indeksa rādītāja pasaulē ieņems aptuveni 35. vietu, salīdzinot ar aptuveni 31. vietu 2013. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "Rezultāts",
   "textSourceDescription": "Avots",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Piezīme",
   "textNote": "Tiek aptaujāti gan uzņēmēji, gan valstu analītiķi, un tiek ņemtas vērā gan vietējo, gan starptautisko ekspertu aptaujas. Indekss svārstās no 0 līdz 100, kur 100 norāda zemāko uztverto korupcijas līmeni, tādējādi atspoguļojot labāko iespējamo rezultātu. Indeksa mērķis ir atspoguļot uztverto korupciju. Tas nepārprotami nav tiešs faktiskās korupcijas mērs, bet gan atspoguļo respondentu viedokli par pieņemto korupciju. Šie viedokļi var būt balstīti uz personīgo pieredzi ar korupciju.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://www.transparency.org/lv/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/lv/cpi/2025",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

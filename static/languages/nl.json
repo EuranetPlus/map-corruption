@@ -1,13 +1,13 @@
 {
   "heading": "Wat vinden EU-burgers van corruptie in de publieke sector?",
-  "subheading": "In 2023 stond de EU27 op de 30e plaats in de wereldwijde corruptieperceptie-index, een stijging van 1 plaats ten opzichte van 2013.",
+  "subheading": "In 2025 zouden de EU27 wereldwijd ongeveer op de 35e plaats staan op basis van hun gemiddelde CPI-score, vergeleken met ongeveer de 31e plaats in 2013.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "Score",
   "textSourceDescription": "Bron",
   "textSource": "Transparantie Internationaal",
   "textNoteDescription": "Opmerking",
-  "textNote": "Zowel ondernemers als landenanalisten worden ondervraagd en peilingen onder experts uit binnen- en buitenland worden meegenomen. De index loopt van 0 tot 100, waarbij 100 het laagste waargenomen corruptieniveau aangeeft en daarmee de best mogelijke uitkomst. De index is bedoeld om de waargenomen corruptie weer te geven. Het is expliciet geen directe maatstaf voor daadwerkelijke corruptie, maar geeft de mening van de respondenten weer over vermeende corruptie. Deze meningen kunnen gebaseerd zijn op persoonlijke ervaringen met corruptie.",
+  "textNote": "Zowel zakenmensen als landenanalisten worden ondervraagd, en er wordt rekening gehouden met peilingen onder experts in binnen- en buitenland. De index loopt van 0 tot 100, waarbij 100 het laagste waargenomen corruptieniveau aangeeft en daarmee de best mogelijke uitkomst vertegenwoordigt. De index is bedoeld om de waargenomen corruptie weer te geven. Het is uitdrukkelijk geen directe maatstaf voor daadwerkelijke corruptie, maar vertegenwoordigt de mening van de respondenten over veronderstelde corruptie. Deze meningen kunnen gebaseerd zijn op persoonlijke ervaringen met corruptie.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Klik voor meer informatie"
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
+  "textCountryClick": "Klik hier voor meer informatie"
 }

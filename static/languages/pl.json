@@ -1,6 +1,6 @@
 {
   "heading": "Co obywatele UE sądzą o korupcji w sektorze publicznym?",
-  "subheading": "W 2023 r. UE27 zajęła 30. miejsce w światowym indeksie percepcji korupcji, co oznacza awans o 1 miejsce w porównaniu z 2013 r.",
+  "subheading": "W 2025 r. UE-27 plasowałaby się na około 35. miejscu na świecie pod względem średniego wskaźnika CPI, podczas gdy w 2013 r. zajmowałaby około 31. miejsce.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Wynik",
   "textSourceDescription": "Źródło",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notatka",
   "textNote": "Ankietowani są przedsiębiorcy oraz analitycy krajowi, a także brane są pod uwagę sondaże przeprowadzone wśród ekspertów z kraju i ze świata. Indeks przyjmuje wartości od 0 do 100, przy czym 100 oznacza najniższy postrzegany poziom korupcji, a tym samym najlepszy możliwy wynik. Indeks ma odzwierciedlać postrzegany poziom korupcji. Nie jest on jednak bezpośrednią miarą rzeczywistej korupcji, lecz odzwierciedla opinie respondentów na temat domniemanej korupcji. Opinie te mogą opierać się na osobistych doświadczeniach z korupcją.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://www.transparency.org/pl/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

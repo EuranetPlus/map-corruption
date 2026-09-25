@@ -1,6 +1,6 @@
 {
   "heading": "Mitä EU-kansalaiset ajattelevat korruptiosta julkisella sektorilla?",
-  "subheading": "Vuonna 2023 EU27 sijoittui maailmanlaajuisessa korruption havaitsemisindeksissä sijalle 30, nousten yhden sijan vuoteen 2013 verrattuna.",
+  "subheading": "Vuonna 2025 EU27 sijoittuisi maailmanlaajuisesti noin sijalle 35 keskimääräisen kuluttajahintaindeksinsä perusteella, kun se vuonna 2013 oli noin sijalla 31.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "Pisteet",
   "textSourceDescription": "Lähde",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Huomautus",
   "textNote": "Sekä liike-elämän edustajille että maa-analyytikoille tehdään kysely, ja huomioon otetaan sekä kotimaisten että kansainvälisten asiantuntijoiden tekemät kyselyt. Indeksi vaihtelee välillä 0–100, jossa 100 osoittaa alhaisimman koetun korruption tason ja edustaa siten parasta mahdollista tulosta. Indeksin tarkoituksena on heijastaa koettua korruptiota. Se ei ole suoraan mittari todelliselle korruptiolle, vaan pikemminkin vastaajien mielipiteitä oletetusta korruptiosta. Nämä mielipiteet voivat perustua henkilökohtaisiin kokemuksiin korruptiosta.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

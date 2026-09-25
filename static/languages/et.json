@@ -1,6 +1,6 @@
 {
   "heading": "Mida arvavad ELi kodanikud korruptsioonist avalikus sektoris?",
-  "subheading": "2023. aastal oli EL 27 ülemaailmses korruptsiooni tajumise indeksis 30. kohal, tõustes 2013. aastaga võrreldes ühe koha võrra.",
+  "subheading": "2025. aastal oleks EL 27 tarbijahinnaindeksi keskmise skoori põhjal maailmas umbes 35. kohal, võrreldes umbes 31. kohaga 2013. aastal.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "Skoor",
   "textSourceDescription": "Allikas",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Märkus",
   "textNote": "Küsitletakse nii ärimehi kui ka riikide analüütikuid ning arvesse võetakse nii siseriiklike kui ka rahvusvaheliste ekspertide küsitlusi. Indeks jääb vahemikku 0–100, kus 100 näitab madalaimat tajutavat korruptsioonitaset, mis esindab parimat võimalikku tulemust. Indeksi eesmärk on kajastada tajutavat korruptsiooni. See ei ole otseselt tegeliku korruptsiooni otsene mõõt, vaid pigem esindab vastajate arvamust oletatava korruptsiooni kohta. Need arvamused võivad põhineda isiklikel kogemustel korruptsiooniga.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

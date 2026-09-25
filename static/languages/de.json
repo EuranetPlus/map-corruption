@@ -1,13 +1,13 @@
 {
   "heading": "Was denken die EU-Bürger über Korruption im öffentlichen Sektor?",
-  "subheading": "Im Jahr 2023 belegte die EU27 im globalen Korruptionswahrnehmungsindex den 30. Platz und verbesserte sich damit im Vergleich zu 2013 um einen Rang.",
+  "subheading": "Im Jahr 2025 würde die EU27, gemessen an ihrem durchschnittlichen Verbraucherpreisindex, weltweit etwa auf Platz 35 rangieren, verglichen mit etwa Platz 31 im Jahr 2013.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Punktzahl",
   "textSourceDescription": "Quelle",
   "textSource": "Transparency International",
   "textNoteDescription": "Notiz",
-  "textNote": "Befragt werden Wirtschaftsvertreter und Länderanalysten. Auch Expertenbefragungen im In- und Ausland fließen ein. Der Index reicht von 0 bis 100, wobei 100 die niedrigste wahrgenommene Korruptionsintensität und damit das bestmögliche Ergebnis darstellt. Der Index soll die wahrgenommene Korruption widerspiegeln. Er ist ausdrücklich kein direktes Maß für tatsächliche Korruption, sondern stellt die Meinung der Befragten zu vermeintlicher Korruption dar. Diese Meinung kann auf persönlichen Erfahrungen mit Korruption beruhen.",
-  "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textNote": "Es werden Geschäftsleute und Länderanalysten befragt, und Umfragen unter Experten im In- und Ausland werden berücksichtigt. Der Index reicht von 0 bis 100, wobei 100 das niedrigste wahrgenommene Korruptionsniveau und somit das bestmögliche Ergebnis darstellt. Der Index soll die wahrgenommene Korruption widerspiegeln. Er ist ausdrücklich kein direktes Maß für tatsächliche Korruption, sondern gibt die Einschätzung der Befragten zu vermuteter Korruption wieder. Diese Einschätzung kann auf persönlichen Erfahrungen mit Korruption beruhen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }
