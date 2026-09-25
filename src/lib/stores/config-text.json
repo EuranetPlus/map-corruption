@@ -1,6 +1,6 @@
 {
   "heading": "What do EU citizens think about corruption in the public sector?",
-  "subheading": "In 2023, the EU27 ranked 30th in the global corruption perception index up 1 rank compared to 2013",
+  "subheading": "In 2025, the EU27 would rank around 35th globally based on its average CPI score, compared with around 31st in 2013.",
   "legend1": "No data available",
   "tooltip1": "Score",
   "textSourceDescription": "Source",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "Businesspeople as well as country analysts are surveyed, and polls with experts both domestically and internationally are taken into account. The index ranges from 0 to 100, with 100 indicating the lowest perceived level of corruption, thus representing the best possible outcome. The index is meant to reflect perceived corruption. It is explicitly not a direct measure of actual corruption, but rather represents the respondents' opinions on assumed corruption. These opinions may be based on personal experiences with corruption.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://www.transparency.org/en/cpi/2023",
+  "linkDataAccess": "https://www.transparency.org/en/cpi/2025",
   "textCountryClick": "Click for more info"
 }
